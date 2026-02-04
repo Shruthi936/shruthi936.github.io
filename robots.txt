@@ -1,5 +1,2 @@
-# https://www.vivekraj.me/robots.txt
 User-agent: *
-Disallow: /
-Crawl-delay: 120
-Disallow: /
+Allow: /
